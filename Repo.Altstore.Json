@@ -19,18 +19,3 @@
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.8/EeveeSpotify-5.9.8-9.0.46.ipa",
           "localizedDescription": "Spotify v9.0.46 injected with EeveeSpotify"
         },
- {
-      "name": "Instagram Rhino",
-"developerName": "scarlet",
-"bundleIndentifier": "com.burbn.instagram",
-"localizedDescription": "",
-      "version": "187.0",
-      "iconURL": "https://iosninja.io/img/ipas/instagram_rhino.png",
-"versions": [
-        {
-          "version": "9.0.46",
-          "date": "2025-05-27T21:29:13Z",
-          "size": 83825465,
-          "downloadURL":  "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
-          "localizedDescription": "Instagram But better"
-    },
