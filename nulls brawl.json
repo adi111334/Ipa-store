@@ -1,11 +1,12 @@
+{
 "name": 
-"Nulls brawl",
+"Nulls brawl;",
 "subtitle": 
-"A source for all of my apps",
+"NULLS BRAWL",
 "description": 
-"Welcome to my source! Here you'll find all of my apps.",
+"STILL NULLS BRAWL",
 "iconURL": 
-"https://i.imgur.com/pqIZoZo.jpeg",
+"https://i.imgur.com/qlQUqEa.png",
 "website": 
 "",
 "patreonURL": 
@@ -18,10 +19,94 @@
 ],
 "apps": 
 [
-{...},
-{...}
+{
+"name": 
+"Nulls brawl",
+"bundleIdentifier": 
+"nt.nb.ios",
+"marketplaceID": 
+"",
+"developerName": 
+"Nulls",
+"subtitle": 
+"Nulls brawl",
+"localizedDescription": 
+"This is an awesome app only available on AltStore.",
+"iconURL": 
+"https://i.imgur.com/qlQUqEa.png",
+"tintColor": 
+"#8c1cd4",
+"category": 
+"games",
+"screenshots": 
+{
+"iphone": 
+[
+{
+"imageURL": 
+"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d8/0d/bcd80d50-c917-8f8c-a9f3-e08fbfe5a489/PH_BS_enUS_BattleRoyale_NewCharacters_2688_U200a_U00d7_U200a1242_iOS_65_SS02.jpg/313x0w.webp",
+"width": 
+313,
+"height": 
+144
+}
+],
+"ipad": 
+[
+{
+"imageURL": 
+"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d8/0d/bcd80d50-c917-8f8c-a9f3-e08fbfe5a489/PH_BS_enUS_BattleRoyale_NewCharacters_2688_U200a_U00d7_U200a1242_iOS_65_SS02.jpg/313x0w.webp",
+"width": 
+313,
+"height": 
+144
+}
+]
+},
+"versions": [
+{
+"downloadURL": 
+"https://dnull.xyz/latest_bs_i",
+"size": 
+794100000,
+"version": 
+"61.249",
+"buildVersion": 
+null,
+"date": 
+"2025-06-10T16:48:00+02:00",
+"localizedDescription": 
+null,
+"minOSVersion": 
+null
+}
+],
+"appPermissions": 
+{
+"entitlements": 
+[
+"com.apple.brawl.stars"
+],
+"privacy": 
+{
+"NSAdvertisingAttributionReportEndpoint": 
+"https://appsflyer-skadnetwork.com/",
+"NSCameraUsageDescription": 
+"Camera access is needed for scanning QR codes.",
+"NSUserTrackingUsageDescription": 
+"Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services.",
+"NSPhotoLibraryUsageDescription": 
+"Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+}
+
+},
+"patreon": 
+{
+}
+}
 ],
 "news": 
 [
 ]
 }
+
