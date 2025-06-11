@@ -9,6 +9,7 @@
   "featuredApps": [
     "nt.nb.ios"
   ],
+  "headerURL": "https://i.imgur.com/JM3E0Ei.png",
   "apps": [
     {
       "name": "Nulls Brawl",
@@ -16,7 +17,7 @@
       "marketplaceID": "",
       "developerName": "Nulls",
       "subtitle": "Get everything in roblox with Nulls Brawl",
-      "localizedDescription": "",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/JM3E0Ei.png",
       "tintColor": "#8c1cd4",
       "category": "games",
@@ -38,19 +39,17 @@
       },
       "versions": [
         {
-          "downloadURL": "https://dnull.xyz/latest_bs_i",
-          "size": 794100000,
           "version": "61.249",
-          "buildVersion": null,
           "date": "2025-06-10T18:16:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://dnull.xyz/latest_bs_i",
+          "size": 794100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "Com.apple.brawl.stars"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
           "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
@@ -58,8 +57,20 @@
           "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
         }
       },
-      "patreon": {
+      "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "THIS IS A TEST",
+      "identifier": "news_dfk33qc3nz",
+      "caption": "TEST",
+      "date": "2025-06-11T20:41",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "nt.nb.ios"
+    }
+  ]
 }
