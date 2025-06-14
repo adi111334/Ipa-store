@@ -49,7 +49,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.gamecenter"
+        ],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
           "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
@@ -60,17 +62,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "THIS IS A TEST",
-      "identifier": "news_dfk33qc3nz",
-      "caption": "TEST",
-      "date": "2025-06-11T20:41",
-      "tintColor": "#6156e2",
-      "imageURL": "",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
-      "appID": "nt.nb.ios"
-    }
-  ]
+  "news": []
 }
